@@ -1,7 +1,7 @@
 godirsync
 =========
 
-A tool to replicate a directory containing bunch of sub directories and files to another machine over http.
+A tiny tool to replicate a directory containing bunch of sub directories and files to another machine over http.
 
 
 example:
